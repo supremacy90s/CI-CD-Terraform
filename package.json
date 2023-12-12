@@ -1,0 +1,10 @@
+// package.json
+
+{
+  "name": "ci-cd-sample",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
